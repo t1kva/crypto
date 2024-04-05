@@ -1,0 +1,38 @@
+@import './scss/normalize.scss';
+@import './scss/variables.scss';
+
+
+@font-face {
+    font-family: 'SourceSansPro-Light';
+    src: url('./fonts/SourceSansPro-Light.ttf') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-Regular';
+    src: url('./fonts/SourceSansPro-Regular.ttf') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-SemiBold';
+    src: url('./fonts/SourceSansPro-SemiBold.ttf') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-Bold';
+    src: url('./fonts/SourceSansPro-Bold.ttf') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-Black';
+    src: url('./fonts/SourceSansPro-Black.ttf') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
