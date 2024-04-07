@@ -41,7 +41,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 32px 165px 32px 165px;
-        background-color: var(--background-color);
+        background-color: var(--background-color2);
     }
 
     &__link {
